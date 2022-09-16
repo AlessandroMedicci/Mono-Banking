@@ -3,6 +3,9 @@
 ✔ Deployed to: 
 https://alessandrosmonobanking.netlify.app/
 
+UserName: av
+Password: 1111
+
 - The App provides the core functionality every small e-banking app should do.
 
 * The App has the following features:
