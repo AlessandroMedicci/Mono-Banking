@@ -1,5 +1,8 @@
 # Online Mini Banking
 
+✔ Deployed to: 
+https://alessandrosmonobanking.netlify.app/
+
 - The App provides the core functionality every small e-banking app should do.
 
 * The App has the following features:
